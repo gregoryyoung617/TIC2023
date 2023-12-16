@@ -1,0 +1,1 @@
+Python program for the 2023 Toyota Innovation Challenge. Uses Machine Vision libraries and live video feed imaging to automatically detect the proper application of stickers in Toyota vehicle assembly lines.
